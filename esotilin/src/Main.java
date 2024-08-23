@@ -3,6 +3,7 @@ package dao;
 import model.Estudiante;
 //SIGUE HACIENDO
 //pero que parte ctm
+//dime hasta donde tengo bien 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
